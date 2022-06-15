@@ -220,11 +220,11 @@ button,input,select,textarea{
     line-height:inherit
 }
 a{
-    color:#ff6360;
+    color:#008000;
     text-decoration:none
 }
 a:focus,a:hover{
-    color:#ff1814;
+    color:#38b000;
     text-decoration:underline
 }
 a:focus{
@@ -380,10 +380,10 @@ p{
     color:#777
 }
 .text-primary{
-    color:#ff6360
+    color:#008000
 }
 a.text-primary:focus,a.text-primary:hover{
-    color:#ff312d
+    color:#38b000
 }
 .text-success{
     color:#fff
@@ -411,10 +411,10 @@ a.text-danger:focus,a.text-danger:hover{
 }
 .bg-primary{
     color:#fff;
-    background-color:#ff6360
+    background-color:#008000
 }
 a.bg-primary:focus,a.bg-primary:hover{
-    background-color:#ff312d
+    background-color:#38b000
 }
 .bg-success{
     background-color:#57ce6e
@@ -1897,33 +1897,33 @@ a.btn.disabled,fieldset[disabled] a.btn{
 }
  .btn-primary{
      color:#fff;
-     background-color:#ff6360;
-     border-color:#ff6360 
+     background-color:#008000;
+     border-color:#008000 
 }
  .btn-primary.focus,.btn-primary:focus{
      color:#fff;
-     background-color:#ff312d;
-     border-color:#e00400 
+     background-color:#38b000;
+     border-color:#38b000 
 }
  .btn-primary.active,.btn-primary:active,.btn-primary:hover,.open>.btn-primary.dropdown-toggle{
      color:#fff;
-     background-color:#ff312d;
-     border-color:#ff2723 
+     background-color:#38b000;
+     border-color:#38b000 
 }
  .btn-primary.active.focus,.btn-primary.active:focus,.btn-primary.active:hover,.btn-primary:active.focus,.btn-primary:active:focus,.btn-primary:active:hover,.open>.btn-primary.dropdown-toggle.focus,.open>.btn-primary.dropdown-toggle:focus,.open>.btn-primary.dropdown-toggle:hover{
      color:#fff;
-     background-color:#ff0e09;
-     border-color:#e00400 
+     background-color:#38b000;
+     border-color:#38b000 
 }
  .btn-primary.active,.btn-primary:active,.open>.btn-primary.dropdown-toggle{
      background-image:none 
 }
  .btn-primary.disabled.focus,.btn-primary.disabled:focus,.btn-primary.disabled:hover,.btn-primary[disabled].focus,.btn-primary[disabled]:focus,.btn-primary[disabled]:hover,fieldset[disabled] .btn-primary.focus,fieldset[disabled] .btn-primary:focus,fieldset[disabled] .btn-primary:hover{
-     background-color:#ff6360;
-     border-color:#ff6360 
+     background-color:#008000;
+     border-color:#008000 
 }
  .btn-primary .badge{
-     color:#ff6360;
+     color:#008000;
     background-color:#fff 
 }
  .btn-success{
@@ -2051,7 +2051,7 @@ a.btn.disabled,fieldset[disabled] a.btn{
     background-color:#fff
 }
  .btn-link{
-     color:#ff6360;
+     color:#008000;
      font-weight:400;
      border-radius:0 
 }
@@ -2064,7 +2064,7 @@ a.btn.disabled,fieldset[disabled] a.btn{
     border-color:transparent
 }
 .btn-link:focus,.btn-link:hover{
-    color:#ff1814;
+    color:#38b000;
     text-decoration:underline;
     background-color:transparent
 }
@@ -2198,7 +2198,7 @@ tbody.collapse.in{
     color:#fff;
     text-decoration:none;
     outline:0;
-    background-color:#ff6360
+    background-color:#008000
 }
 .dropdown-menu>.disabled>a,.dropdown-menu>.disabled>a:focus,.dropdown-menu>.disabled>a:hover{
     color:#777
@@ -2544,7 +2544,7 @@ tbody.collapse.in{
 }
 .nav .open>a,.nav .open>a:focus,.nav .open>a:hover{
     background-color:transparent;
-    border-color:#ff6360
+    border-color:#008000
 }
 .nav .nav-divider{
     height:1px;
@@ -2589,7 +2589,7 @@ tbody.collapse.in{
 }
 .nav-pills>li.active>a,.nav-pills>li.active>a:focus,.nav-pills>li.active>a:hover{
     color:#fff;
-    background-color:#ff6360
+    background-color:#008000
 }
 .nav-stacked>li{
     float:none
@@ -3154,10 +3154,10 @@ a.label:focus,a.label:hover{
     background-color:#5e5e5e
 }
 .label-primary{
-    background-color:#ff6360
+    background-color:#008000
 }
 .label-primary[href]:focus,.label-primary[href]:hover{
-    background-color:#ff312d
+    background-color:#38b000
 }
 .label-success{
     background-color:#5cb85c
@@ -3209,7 +3209,7 @@ a.label:focus,a.label:hover{
     padding:1px 5px
 }
 .list-group-item.active>.badge,.nav-pills>.active>a>.badge{
-    color:#ff6360;
+    color:#008000;
     background-color:#fff
 }
 .list-group-item>.badge{
@@ -3972,7 +3972,7 @@ main{
     font-weight:700
 }
 .nav>li>a:hover{
-    color:#ff6360
+    color:#008000
 }
 .nav-footer-social-buttons{
     margin-bottom:0;
